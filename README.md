@@ -59,4 +59,5 @@
 ### 关于验证码识别
 - 涉及图像识别，建议网上购买对应接口
 ### 简单的登录界面
-![avatar](https://github.com/DreamLay/tougueNet/blob/master/example/train-volume.jpg)
+![avatar](https://github.com/DreamLay/Login12306/blob/master/imgs/login.png)
+![avatar](https://github.com/DreamLay/Login12306/blob/master/imgs/after_login.png)
