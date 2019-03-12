@@ -53,7 +53,9 @@
        https://kyfw.12306.cn/otn/uamauthclient
        ```
        继续获取set-cookie加入原来的cookie中...
+
        6. 终于。。。完成登录了
+       
 
 
 ### 关于验证码识别
